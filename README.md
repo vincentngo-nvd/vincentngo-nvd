@@ -25,7 +25,7 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![Cat Animation](https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/main/assets/cat-black2.gif)
 
 ###
 
