@@ -60,7 +60,7 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/output/dist/snake.svg)
+![Snake animation](https://github.com/vincentngo-nvd/vincentngo-nvd/blob/output/github-contribution-grid-snake.svg)
 
 ###
 ![GitHub Streak](https://streak-stats.demolab.com?user=vincentngo-nvd&theme=radical&hide_border=false)  
