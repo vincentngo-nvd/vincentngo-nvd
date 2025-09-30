@@ -48,14 +48,4 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 
 ---
 
-## 🐍 Contribution Graph
-![snake gif](https://github.com/vincentngo-nvd/vincentngo-nvd/blob/output/github-contribution-grid-snake.svg)  
-
----
-
-## 📈 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=vincentngo-nvd&label=Profile%20views&color=blue&style=flat)  
-
----
-
 ✨ *“The best way to predict the future is to build it.” – Alan Kay*  
