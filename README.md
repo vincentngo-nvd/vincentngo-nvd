@@ -16,18 +16,20 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 
 ## 📊 GitHub Analytics
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincentngo-nvd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentngo-nvd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vincentngo-nvd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
+       height="160" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentngo-nvd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
+       height="160" alt="languages graph" />
 </div>
+<br>
 
-###
+---
 
 ![Cat Animation](https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/main/assets/cat-black2.gif)
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -43,7 +45,7 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+---
 
 <div align="left">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -51,13 +53,14 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 ![Snake animation](https://github.com/vincentngo-nvd/vincentngo-nvd/blob/output/github-contribution-grid-snake.svg)
 
-###
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com/github-streak-stats.svg?user=vincentngo-nvd&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ---
