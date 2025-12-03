@@ -14,58 +14,102 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats-delta-kohl-8fayptquxf.vercel.app/api?username=vincentngo-nvd&show_icons=true&theme=dracula&hide_border=false" height="160" />
-  
-  <img src="https://github-readme-stats-delta-kohl-8fayptquxf.vercel.app/api/top-langs?username=vincentngo-nvd&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
+  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
+  
+  <br><br>
+  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="NodeJS logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="10" />
+  
+  <br><br>
+  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats-delta-kohl-8fayptquxf.vercel.app/api?username=vincentngo-nvd&show_icons=true&theme=dracula&hide_border=false" height="160" />
+  
+  <img src="https://github-readme-stats-delta-kohl-8fayptquxf.vercel.app/api/top-langs?username=vincentngo-nvd&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
 </div>
 <br>
 
 ---
 
-![Cat Animation](https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/main/assets/cat-black2.gif)
+## 🔥 Contribution Streak
 
----
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vincentngo-nvd&theme=radical&hide_border=false)](https://git.io/streak-stats)
 </div>
-
----
-
-<div align="left">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
----
-
-<br clear="both">
-
-![Snake animation](https://github.com/vincentngo-nvd/vincentngo-nvd/blob/output/github-contribution-grid-snake.svg)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vincentngo-nvd&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vincentngo-nvd&theme=radical&no-frame=true&row=1&column=6)  
+
+<div align="center">
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vincentngo-nvd&theme=radical&no-frame=true&row=1&column=6)  
+</div>
 
 ---
 
-✨ *“The best way to predict the future is to build it.” – Alan Kay*  
+## 📅 Contribution Graph
+
+<div align="center">
+  <br clear="both">
+  ![Snake animation](https://github.com/vincentngo-nvd/vincentngo-nvd/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img width="10" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img width="10" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+</div>
+
+---
+
+## 🐈 Just for Fun
+
+<div align="center">
+  ![Cat Animation](https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/main/assets/cat-black2.gif)
+</div>
+
+---
+
+✨ *“The best way to predict the future is to build it.” – Alan Kay*
