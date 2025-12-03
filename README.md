@@ -20,8 +20,6 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
   <img src="https://github-readme-stats-delta-kohl-8fayptquxf.vercel.app/api?username=vincentngo-nvd&show_icons=true&theme=dracula&hide_border=false" height="160" />
   
   <img src="https://github-readme-stats-delta-kohl-8fayptquxf.vercel.app/api/top-langs?username=vincentngo-nvd&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
-
-  <img src="https://github-readme-stats-delta-kohl-8fayptquxf.vercel.app/api/pin/?username=vincentngo-nvd&repo=REPO_NAME&theme=dracula" />
 </div>
 <br>
 
