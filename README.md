@@ -17,11 +17,9 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincentngo-nvd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-       height="160" alt="stats graph" />
+  <img src="https://github-readme-stats-git-masterorg-dhruv.pages.dev/api?username=vincentngo-nvd&show_icons=true&theme=dracula" height="160" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentngo-nvd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
-       height="160" alt="languages graph" />
+  <img src="https://github-readme-stats-git-masterorg-dhruv.pages.dev/api/top-langs?username=vincentngo-nvd&layout=compact&theme=dracula" height="160" />
 </div>
 <br>
 
@@ -61,7 +59,7 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/github-streak-stats.svg?user=vincentngo-nvd&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vincentngo-nvd&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
