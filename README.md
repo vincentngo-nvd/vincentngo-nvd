@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vincent Ngo  
+# 👋 Hi, I'm Duong Ngo Van  
 
 🎯 **Machine Learning Engineer** | AI Enthusiast | Remote-Ready Developer  
 
