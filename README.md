@@ -99,7 +99,7 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 
 ## 🐈 Just for Fun
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/main/assets/cat-black2.gif" />
+  <img src="https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/master/assets/cat-black2.gif" />
 </div>
 
 ---
