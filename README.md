@@ -68,45 +68,38 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 ---
 
 ## 🔥 Contribution Streak
-
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=vincentngo-nvd&theme=radical&hide_border=false)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=vincentngo-nvd&theme=radical&hide_border=false" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vincentngo-nvd&theme=radical&no-frame=true&row=1&column=6)  
+  <img src="https://github-profile-trophy.vercel.app/?username=vincentngo-nvd&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
 
 ## 📅 Contribution Graph
-
 <div align="center">
-  <br clear="both">
-  ![Snake animation](https://github.com/vincentngo-nvd/vincentngo-nvd/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
 ## 📬 Connect with Me
-
 <div align="center">
-    <a href="https://www.linkedin.com/in/vincentngo-nvd/">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-    </a>
-    &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/vincentngo-nvd/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 </div>
 
 ---
 
 ## 🐈 Just for Fun
-
 <div align="center">
-  ![Cat Animation](https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/main/assets/cat-black2.gif)
+  <img src="https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/main/assets/cat-black2.gif" />
 </div>
 
 ---
