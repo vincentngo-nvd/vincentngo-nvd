@@ -76,7 +76,9 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vincentngo-nvd&theme=radical&no-frame=true&row=1&column=6" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vincentngo-nvd&theme=onedark" />
+  </a>
 </div>
 
 ---
