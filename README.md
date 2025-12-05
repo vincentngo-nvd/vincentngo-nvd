@@ -76,9 +76,9 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-nine-smoky.vercel.app/api?username=vincentngo-nvd&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vincentngo-nvd&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -96,11 +96,13 @@ With 1 years of hands-on experience in **Machine Learning** and **Deep Learning*
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   
-    &nbsp;&nbsp;&nbsp; 
+  &nbsp;&nbsp;&nbsp; 
   
   <a href="mailto:ngovanduong.dev@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
+
+  &nbsp;&nbsp;&nbsp;
 </div>
 
 ---
