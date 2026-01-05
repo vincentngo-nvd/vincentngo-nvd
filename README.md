@@ -2,7 +2,7 @@
 
 🎯 **Full-Stack Developer** | ReactJS, NodeJS, Next.js Enthusiast | Final-year IT Student  
 
-[cite_start]I am a highly motivated 4th-year IT student at UTE-UD, specializing in building modern web applications with the **Next.js 15, MERN stack, and TypeScript**[cite: 48, 49]. [cite_start]I have hands-on experience in handling complex business logic, such as **SKU management** and **real-time stock control**[cite: 50, 61].
+I am a highly motivated 4th-year IT student at UTE-UD, specializing in building modern web applications with the **Next.js 15, MERN stack, and TypeScript**. I have hands-on experience in handling complex business logic, such as **SKU management** and **real-time stock control**.
 
 ---
 
