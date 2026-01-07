@@ -1,49 +1,47 @@
-# 👋 Hi, I'm Duong Ngo Van  
+# 👋 Hi, I'm Ngo Van Duong  
 
-🎯 **Full-Stack Developer** | ReactJS, NodeJS, Next.js Enthusiast | Final-year IT Student  
+🎯 **Full-Stack Developer Path** | ReactJS, Node.js & MongoDB Specialist | Final-year IT Student  
 
-I am a highly motivated 4th-year IT student at UTE-UD, specializing in building modern web applications with the **Next.js 15, MERN stack, and TypeScript**. I have hands-on experience in handling complex business logic, such as **SKU management** and **real-time stock control**.
+I am a dedicated 4th-year IT student at UTE-UD with a solid foundation in **ReactJS** and a proactive mindset toward mastering **Next.js & TypeScript**. I take pride in my ability to **rapidly bridge knowledge gaps**, evidenced by self-studying and implementing complex payment and state management systems in production-like projects.
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Featured Project
 
-### 🛒 [Thiên Đường Gia Dụng](https://github.com/vincentngo-nvd/Co-So_DLPQH.git) | Fullstack E-Commerce Platform
-**Role:** Frontend Developer (Team of 3) | **Timeline:** 2025 (Internship Project at SafeHorizons Software)
-- **Frontend:** Developed a responsive UI using **React 19**, **Sass**, and **Bootstrap 5**. Managed global state (Cart, Search) with **Redux Toolkit**.
-- **Key Features:** Integrated **PayPal SDK** for international payments, implemented a smart **Voucher system**, and a 5-star **Rating & Review** module.
-- **UX/UI:** Optimized performance with "Load More" pagination and enhanced security with **JWT Refresh Token** mechanisms.
+### 🛒 [Thiên Đường Gia Dụng](https://github.com/vincentngo-nvd/Co-So_DLPQH.git) | E-Commerce Platform
+**Role:** Frontend Developer (Team of 3) | **Timeline:** Aug 2025 – Dec 2025
+- **Tech Stack:** ReactJS, Redux Toolkit, Sass, Bootstrap 5.
+- **Self-Taught Integration:** Successfully implemented **PayPal SDK** for international payments and **Redux Toolkit** for centralized state management (cart logic, search persistence).
+- **Core Contribution:** Developed responsive UI/UX, optimized rendering with reusable components, and collaborated with Backend via RESTful APIs (MongoDB).
+- **Outcome:** A fully functional e-commerce flow with real-time stock control and secure JWT authentication.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" alt="React logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" alt="Bootstrap logo" />
+  
+  <br><br>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" alt="NodeJS logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="45" alt="MongoDB logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL logo" />
+  
+  <br><br>
+  
+  <p><b>Currently Learning:</b></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" />
-  <img width="10" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
-  
-  <br><br>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="NodeJS logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
-  
-  <br><br>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
 </div>
 
 ---
@@ -77,11 +75,10 @@ I am a highly motivated 4th-year IT student at UTE-UD, specializing in building 
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 </div>
+
 ---
 
 ## 🐈 Just for Fun
 <div align="center">
   <img src="https://raw.githubusercontent.com/vincentngo-nvd/vincentngo-nvd/master/assets/cat-black2.gif" />
 </div>
-
----
